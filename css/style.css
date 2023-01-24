@@ -18,6 +18,7 @@
     border-radius: 8px;
     padding: 9px 25px;
 }
+
 .panda-btn-buy {
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
     color: #fff;
@@ -30,6 +31,7 @@
     background-image: linear-gradient(to bottom, #FF136F 0%, #FF136F 100%);
     box-shadow: 1px 1px 5px black;
 }
+
 .panda-btn-buy:hover {
     background-image: linear-gradient(to bottom, #FF136F 0%, #FF136F 100%);
 }
@@ -69,12 +71,13 @@
     border-color: rgb(0, 0, 0);
     outline: 0;
     box-shadow: 0 0 0 0.25rem rgba(13, 109, 253, 0);
-  }
+}
 
-  .subscribe-sec{
+.subscribe-sec {
     background-color: #fceae8;
-  }
-  .common-sec{
+}
+
+.common-sec {
     margin-top: 100px;
     margin-bottom: 100px;
-  }
+}
